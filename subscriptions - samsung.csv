@@ -1,0 +1,2 @@
+User email*,Offer ID*,Expiry date (YYYY-MM-DD)*,"status (active,stopped)*",Package name*,invoiceId*,CustomerId*
+example@example.com,S123456678_PL,2021-12-31,active,com.latto.tv.cleeng,s202510090000123456789,f4c2d3a7b8124e90a6d3c5b17fcd1234

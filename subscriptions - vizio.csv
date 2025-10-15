@@ -1,0 +1,2 @@
+User email*,Offer ID*,Expiry date (YYYY-MM-DD)*,"status (active,stopped)*",Package name*,vizioSubscriptionId*
+example@example.com,S123456678_PL,2021-12-31,active,com.latto.tv.cleeng,sub_8f34a1c2b9074d9fb5a6e21f54f982a1
