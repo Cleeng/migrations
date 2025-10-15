@@ -1,0 +1,2 @@
+User email*,Offer ID*,Expiry date (YYYY-MM-DD)*,"status (active,stopped)*",OriginalTransactionID*
+example@example.com,S123456678_PL,2021-12-31,active,46284995001233729300

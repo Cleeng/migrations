@@ -1,0 +1,3 @@
+User Email*,Token*,paymentMethodId*,active*,paymentMethodSpecificParams
+example@example.com,(string),1,TRUE,"{""holderName"": ""John Doe"", ""lastCardFourDigits"": ""1234"", ""variant"": ""visa"", ""cardExpirationDate"": ""12/2026""}"
+foobar@fazbaz.com,(string),2,TRUE,"{""custom_param"": ""custom_value"", ""other_param"": ""other_value""}"

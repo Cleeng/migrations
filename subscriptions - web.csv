@@ -1,0 +1,2 @@
+User email*,Offer ID*,Expiry date (YYYY-MM-DD)*,"status (active,stopped)*",Payment method ID (will be used also for payment gateway)*,Subscription external ID,"External properties (JSON format, only strings)",Season Index (required for seasonal offer),Coupon Code,Campaign name,Coupon Already Used
+example@example.com,S123456678_PL,2021-12-31,active,,,"""{""""test"""": """"1"""",""""string"""":""""yes""""}""",1,Free4Me,Winter season,1

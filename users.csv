@@ -1,0 +1,2 @@
+First Name,Last Name,Email* (verify if user exists),Locale*,Last login (YYYY-MM-DD) Default to Current Date,Create date (YYYY-MM-DD) Default to Current Date,Country Code*,Currency* (default EUR),IP Address (Mandatoy for US and CA for Tax Collecting) ,Timezone (default Europe/Amsterdam),ExternalId (Mandatory for External SSO),Password Hash (Optional for Password Migration)
+John,Doe,example@example.com,en_US,2021-03-01,2021-01-01,,USD,,America/New_York,,
